@@ -66,39 +66,29 @@ Custos de terceiros: servidor ~R$ 25–40/mês e a taxa do seu gateway PIX. O Te
 
 ---
 
-## 2. Post para LinkedIn
-
-Estou abrindo vagas para criar bots de atendimento com IA para pequenos negócios.
-
-Nas últimas semanas, quase todo pedido que vi em plataformas de freela era parecido: clínicas, imobiliárias e lojas que não conseguem responder todo mundo no WhatsApp e acabam perdendo cliente para quem responde primeiro.
-
-Por isso montei 3 pacotes com escopo e preço fechados:
-
-1. Atendente IA para clínicas: tira dúvidas com base no FAQ da clínica, faz pré-agendamento e chama a recepção quando precisa. R$ 497.
-2. Qualificador de leads no WhatsApp: faz as perguntas certas e entrega o lead pronto para o vendedor ou corretor. R$ 597.
-3. Bot de assinatura VIP no Telegram com PIX: cobra, libera o acesso e remove quem não renovou, sem taxa por venda. R$ 397.
-
-Tudo na API oficial do WhatsApp, com entrega em até 5 dias. Os preços são de lançamento enquanto formo minhas primeiras avaliações.
-
-Uma coisa que faço questão de deixar claro: a IA responde só com informação que você aprovou. Se ela não souber, chama um humano.
-
-O código do meu projeto de demonstração é aberto: https://github.com/lsventura/whatsapp-ai-bot
-Detalhes e contato: https://lsventura.github.io/bots-whatsapp-ia/
-
-Se você conhece alguém que vive afogado em mensagem no WhatsApp, me indica ou compartilha. Obrigado!
-
-#WhatsApp #InteligenciaArtificial #Automacao #PequenasEmpresas #Chatbot
-
----
-
-## 3. Post para X (≤ 280 caracteres)
+## 2. Post para X (≤ 280 caracteres)
 
 Crio bots com IA para WhatsApp (API oficial) e Telegram: atendente para clínicas, qualificador de leads e grupo VIP com PIX automático. Entrega em até 5 dias, preço de lançamento a partir de R$ 397.
 https://lsventura.github.io/bots-whatsapp-ia/
 
 ---
 
-## 4. Mensagem para grupos de negócios (Facebook/Telegram)
+### 2.1 Fio (thread) para X
+
+1/ Pequeno negócio perde cliente no WhatsApp por um motivo simples: demora pra responder. Quem responde primeiro leva. Eu crio bots com IA que resolvem isso. 🧵
+
+2/ Atendente IA para clínicas: tira dúvidas (preço, convênio, endereço) só com informação que a clínica aprovou, faz pré-agendamento e chama a recepção quando precisa.
+
+3/ Qualificador de leads: faz as perguntas que você define (orçamento, região, prazo) e entrega o lead pronto pro corretor ou vendedor.
+
+4/ Grupo VIP no Telegram: o bot gera o PIX, libera o acesso e remove quem não renovou. Sem taxa por venda pra plataforma.
+
+5/ Tudo na API oficial do WhatsApp, entrega em até 5 dias, preço de lançamento a partir de R$ 397. Código de demonstração aberto: https://github.com/lsventura/whatsapp-ai-bot
+Detalhes: https://lsventura.github.io/bots-whatsapp-ia/
+
+---
+
+## 3. Mensagem para grupos de negócios (Facebook/Telegram)
 
 > Leia as regras do grupo antes. Poste só onde divulgação de serviço é permitida, uma vez, e responda quem comentar.
 
@@ -115,7 +105,18 @@ Dúvidas? Pode comentar aqui ou me chamar no privado.
 
 ---
 
-## 5. Status/story do WhatsApp (5 linhas)
+### 3.1 Versão curta para supergrupos de divulgação no Telegram
+
+🤖 Bots com IA para WhatsApp e Telegram
+• Atendente IA para clínicas: R$ 497
+• Qualificador de leads no WhatsApp: R$ 597
+• Grupo VIP no Telegram com PIX automático: R$ 397
+API oficial, entrega em até 5 dias, preço de lançamento.
+👉 https://lsventura.github.io/bots-whatsapp-ia/
+
+---
+
+## 4. Status/story do WhatsApp (5 linhas)
 
 1. Seu WhatsApp tem mensagem esperando resposta agora? 👀
 2. Eu crio atendentes com IA que respondem seus clientes 24h.
