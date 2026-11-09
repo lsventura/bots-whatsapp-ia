@@ -8,11 +8,36 @@ Contato: WhatsApp https://wa.me/5511977049238 · e-mail leo.sanchees2014@gmail.c
 
 ---
 
+## 0. O que converte e por quê (pesquisa de 09/11/2026)
+
+O que vi em anúncios e páginas reais, e como apliquei aqui:
+
+1. **Gancho com uma cena concreta da dor, não com a tecnologia.** A AtendExpress abre com "Seu paciente chama às 21h. A gente responde, agenda e confirma enquanto você descansa". A Cloudia diz que, nos dados dela, 59% dos agendamentos acontecem fora do horário comercial (o número é deles, não nosso). → Abri a landing e os posts com "Seu cliente chamou às 21h. Quem respondeu?".
+   Fontes: https://atendexpress.com.br/ · https://cloudia.com.br/chatbot-para-whatsapp/
+2. **Nicho explícito no título.** Os anúncios que mais se destacam dizem para quem é, como "AI-powered WhatsApp receptionist for clinics, salons" no Fiverr. As páginas da nFactory e da We Ramp também são específicas para clínicas. → Os títulos dos gigs dizem "para clínicas", "imobiliárias", "grupo VIP".
+   Fontes: https://www.fiverr.com/zulfiqarlaili/build-ai-automation-and-chatbot-systems-to-grow-your-business · https://nfactory.com.br/servicos/chatbot-para-whatsapp/clinicas · https://weramp.com.br/precos
+3. **Três pacotes (Básico/Padrão/Premium) com entregáveis concretos.** O gig de WhatsApp IA com mais avaliações que achei (4,9, 51 avaliações) usa US$250/400/600, prazos de 7/14/30 dias, "Source Code", "Unlimited Revisions" e "official WhatsApp API". → Os gigs têm 3 níveis, citam código-fonte entregue e API oficial.
+   Fonte: https://www.fiverr.com/digitalpraneeth/create-whatsapp-ai-agents-and-whatsapp-ai-chatbots
+4. **O que as avaliações elogiam é comunicação e "funcionou exatamente como combinado".** Nas avaliações desse mesmo gig aparecem "set up exactly as needed", "communication was clear, fast" e "implemented exactly as discussed". Ninguém elogia a tecnologia. → A copy promete escopo por escrito, teste antes de pagar a segunda metade e resposta rápida.
+5. **Âncora de preço com referência real.** No mercado, a implantação para clínica aparece entre R$ 997 e R$ 1.500 (We Ramp R$ 997, nFactory "a partir de R$ 1.500"), e as plataformas cobram R$ 197–497/mês. Nos bots VIP de Telegram, a cobrança é de 4–6% por venda (PayBots, subwall) ou R$ 97/mês (VyvaBot). → Nossos preços de R$ 397–597 sem mensalidade obrigatória, e "sem porcentagem por venda" no bot VIP, ficam bem posicionados frente a isso.
+   Fontes: https://paybots.com.br/ · https://app.subwall.one/ · https://vyvabot.com/
+6. **Reversão de risco.** Os SaaS usam "7 dias de garantia total" ou "7 dias grátis, sem cartão". No serviço, o equivalente honesto é **50% para começar e 50% depois de testar e aprovar**. → Usado na landing e nos gigs.
+   Fonte: https://inteligenciabot.com/ · https://ageubot.com.br/como-funciona/
+7. **Prova visual antes do contato.** Gigs e páginas de produto mostram print e vídeo do bot conversando. → Use o repositório aberto como prova e **grave um vídeo de 30–60s** do `npm run chat` ou de um WhatsApp de teste (pendente; isso converte mais que texto).
+8. **Urgência só se for verdadeira.** O cronômetro falso da Gogia ("Oferta expira em 00:00:00") é o que *não* fazer. → Usei "preço de lançamento para os 5 primeiros clientes". **Cumpra isso:** depois do 5º cliente, suba o preço.
+   Fonte (contraexemplo): https://fluiw.com/
+9. **O mercado barato está vazio de prova.** No VintePila há gigs de R$ 49–200, mas os que vi têm "Sem avaliações ainda" e estão inativos há mais de 30 dias. Competir só no preço não basta; quem ganha é quem tem nicho, prova e resposta rápida.
+   Fontes: https://www.vintepila.com.br/servicos/programacao-tecnologia/eu-vou-automatizar-sua-empresa-no-whatsapp/ · https://www.vintepila.com.br/servicos/outros-servicos-programacao/eu-vou-criar-seu-bot-whatsapp-ou-telegram/
+
+Não achei posts públicos no X de vendedores BR de bots com engajamento verificável. Os exemplos com tração estavam no LinkedIn, que ficou fora por pedido seu. O formato que funciona lá, "criei X, como funciona em passos, link do GitHub", foi adaptado para o fio do X (seção 2.1).
+
+---
+
 ## 1. Descrições de serviço (estilo Fiverr/Workana)
 
 ### 1.1 Atendente IA no WhatsApp para clínicas e consultórios
 
-**Título:** Vou criar um atendente com IA no WhatsApp para sua clínica (API oficial)
+**Título:** Vou criar um atendente com IA no WhatsApp para sua clínica, que responde até às 21h de domingo (API oficial)
 
 **Descrição:**
 Sua recepção perde pacientes porque não consegue responder todo mundo a tempo, principalmente à noite e no fim de semana? Eu monto um atendente com IA no WhatsApp da sua clínica, usando a API oficial da Meta.
@@ -24,7 +49,18 @@ O que está incluído:
 - Instalação em servidor e configuração da API oficial do WhatsApp.
 - Manual simples para você atualizar as respostas.
 
-Prazo: até 5 dias úteis. Preço de lançamento: R$ 497 (manutenção mensal opcional de R$ 97).
+**Pacotes (preço de lançamento para os 5 primeiros clientes):**
+| | Básico R$ 297 | Padrão R$ 497 | Premium R$ 797 |
+|---|---|---|---|
+| FAQ com IA (sem inventar) | até 20 perguntas | até 50 | ilimitado |
+| Pré-agendamento (coleta de dados) | – | ✓ | ✓ |
+| Aviso para a recepção + handoff humano | ✓ | ✓ | ✓ |
+| Envio dos dados para formulário/planilha | – | – | ✓ |
+| Código-fonte entregue | ✓ | ✓ | ✓ |
+| Prazo | 3 dias | 5 dias | 7 dias |
+| Ajustes após entrega | 7 dias | 15 dias | 30 dias |
+
+Pagamento: 50% para começar e 50% depois que você testar e aprovar. Manutenção mensal opcional de R$ 97.
 
 Custos de terceiros, pagos direto por você: servidor ~R$ 25–40/mês, IA ~R$ 10–50/mês em volume pequeno. No WhatsApp, responder quem te chamou dentro de 24h é grátis; mensagens iniciadas pela clínica (lembretes) são cobradas por mensagem pela Meta.
 
@@ -44,7 +80,7 @@ Incluído:
 - Opcional: envio dos dados para formulário, planilha ou CRM.
 - API oficial do WhatsApp, instalação e testes.
 
-Prazo: até 5 dias úteis. Preço de lançamento: R$ 597 (manutenção opcional de R$ 127/mês).
+Prazo: até 5 dias úteis. Preço de lançamento para os 5 primeiros clientes: R$ 597 (manutenção opcional de R$ 127/mês). Pagamento 50% no início e 50% após você testar. Código-fonte entregue.
 
 Custos de terceiros por sua conta: servidor ~R$ 25–40/mês, IA ~R$ 10–50/mês em volume pequeno e WhatsApp Cloud API conforme tabela da Meta.
 
@@ -60,7 +96,7 @@ Cansado de conferir comprovante de PIX e remover manualmente quem não renovou? 
 - Integração com Mercado Pago ou o gateway PIX que você já usa.
 - O bot é seu e roda no seu servidor: sem porcentagem por venda para plataforma.
 
-Prazo: até 5 dias úteis. Preço de lançamento: R$ 397 (manutenção opcional R$ 97/mês).
+Prazo: até 5 dias úteis. Preço de lançamento para os 5 primeiros clientes: R$ 397 (manutenção opcional R$ 97/mês). Para comparar: plataformas prontas cobram 4–6% de cada venda ou mensalidade; aqui você paga uma vez. Pagamento 50% no início e 50% após testar.
 
 Custos de terceiros: servidor ~R$ 25–40/mês e a taxa do seu gateway PIX. O Telegram não cobra pelo bot.
 
@@ -92,7 +128,7 @@ Detalhes: https://lsventura.github.io/bots-whatsapp-ia/
 
 > Leia as regras do grupo antes. Poste só onde divulgação de serviço é permitida, uma vez, e responda quem comentar.
 
-Oi, pessoal! Sou o Leonardo, desenvolvedor de automação. Se o WhatsApp do seu negócio está acumulando mensagens sem resposta, eu crio um atendente com IA que:
+Oi, pessoal! Sou o Leonardo, desenvolvedor de automação. Pergunta rápida: quando um cliente te chama às 21h, quem responde? Se ninguém, eu crio um atendente com IA que:
 
 ✅ responde dúvidas com as informações que você aprova (não inventa)
 ✅ coleta os dados do cliente e passa para você ou sua equipe
@@ -100,7 +136,7 @@ Oi, pessoal! Sou o Leonardo, desenvolvedor de automação. Se o WhatsApp do seu 
 
 Também faço bot de assinatura VIP no Telegram com PIX automático.
 
-Entrega em até 5 dias, preço de lançamento a partir de R$ 397. Detalhes e exemplos: https://lsventura.github.io/bots-whatsapp-ia/
+Entrega em até 5 dias, preço de lançamento para os 5 primeiros clientes, a partir de R$ 397. Você paga metade no início e metade depois de testar. Detalhes e exemplos: https://lsventura.github.io/bots-whatsapp-ia/
 Dúvidas? Pode comentar aqui ou me chamar no privado.
 
 ---
@@ -118,7 +154,7 @@ API oficial, entrega em até 5 dias, preço de lançamento.
 
 ## 4. Status/story do WhatsApp (5 linhas)
 
-1. Seu WhatsApp tem mensagem esperando resposta agora? 👀
+1. Seu cliente chamou às 21h. Quem respondeu? 👀
 2. Eu crio atendentes com IA que respondem seus clientes 24h.
 3. Clínicas, imobiliárias, lojas e grupos VIP no Telegram com PIX.
 4. Entrega em até 5 dias, com preço de lançamento a partir de R$ 397.
