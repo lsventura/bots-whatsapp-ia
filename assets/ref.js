@@ -7,7 +7,7 @@
 (function () {
   // TODO(Leonardo): troque pelo código da sua conta GoatCounter (https://<CODIGO>.goatcounter.com).
   // Deixe "" para desligar o analytics.
-  var GOATCOUNTER_CODE = "fiscalbots";
+  var GOATCOUNTER_CODE = "";
 
   var PHONE = "5511977049238";
   var KEYS = ["utm_source", "utm_medium", "utm_campaign", "utm_content"];
